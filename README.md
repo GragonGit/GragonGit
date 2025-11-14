@@ -1,16 +1,17 @@
-## Hi there 👋
+## Gragon here! 👋
 
-<!--
-**GragonGit/GragonGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer from Germany focusing on Web Development and Games.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,angular,vue,nuxtjs,figma,unity,godot,cs,java,obsidian&perline=5" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### I am currently working:
+- My Masters degree
+- My Masters projects
+- My Masters tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$${\color{222244}_{I \space am \space doing \space my \space Masters \space if \space you \space couldn't \space tell}}$$
+
+**Grab yourself a cookie! 🍪**
