@@ -12,6 +12,7 @@ I'm a Software Engineer from Germany focusing on Web Development and Games.
 - My Masters projects
 - My Masters tasks
 
-$${\color{222244}_{I \space am \space doing \space my \space Masters \space if \space you \space couldn't \space tell}}$$
+<sub>I'm doing my masters if you couldn't tell</sub>
 
+---
 **Grab yourself a cookie! 🍪**
