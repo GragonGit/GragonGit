@@ -7,7 +7,7 @@ I'm a Software Engineer from Germany focusing on Web Development and Games.
   </a>
 </p>
 
-### I am currently working:
+### I am currently working on:
 - My Masters degree
 - My Masters projects
 - My Masters tasks
