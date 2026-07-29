@@ -7,8 +7,8 @@ I'm a Software Engineer from Germany focusing on Web and Game Development.
   </a>
 </p>
 
-### Check out my latest game jam submission.
-<iframe frameborder="0" src="https://itch.io/embed/4803421?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://gragonator.itch.io/too-many-timers">Too Many Timers by Gragon, TanConan</a></iframe>
+### Check out my latest Game:
+[![Itch.io](https://img.shields.io/badge/Too_Many_Timers-Play_Now-e75952?style=for-the-badge&logo=itch.io&logoColor=white)](https://gragonator.itch.io/too-many-timers)
 
 ### I am currently working on:
 - My Masters degree
