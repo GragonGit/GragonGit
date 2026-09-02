@@ -8,7 +8,10 @@ I'm a Software Engineer from Germany focusing on Web and Game Development.
 </p>
 
 ### Check out my latest Game:
-[![Itch.io](https://img.shields.io/badge/Too_Many_Timers-Play_Now-e75952?style=for-the-badge&logo=itch.io&logoColor=white)](https://gragonator.itch.io/too-many-timers)
+[![Homepage](https://img.shields.io/badge/Homepage-Visit-c80000?style=for-the-badge)](https://gragongit.github.io/Homepage/)
+
+### Check out my latest Game:
+[![Itch.io](https://img.shields.io/badge/Too_Many_Timers-Play_Now-e75952?style=for-the-badge)](https://gragonator.itch.io/too-many-timers)
 
 ### I am currently working on:
 - My Masters degree
