@@ -8,7 +8,10 @@ I'm a Software Engineer from Germany focusing on Web and Game Development.
 </p>
 
 ### Cool Projects:
-[![Homepage](https://img.shields.io/badge/Website-Homepage-c80000?style=for-the-badge)](https://gragongit.github.io/Homepage/) [![Itch.io](https://img.shields.io/badge/Game-Too_Many_Timers-e75952?style=for-the-badge)](https://gragonator.itch.io/too-many-timers) [![Modrinth](https://img.shields.io/badge/Mod-Arcane_Artistry-4034eb?style=for-the-badge)](https://modrinth.com/mod/arcane-artistry)
+[![Homepage](https://img.shields.io/badge/Website-Homepage-c80000?style=for-the-badge)](https://gragongit.github.io/Homepage/)
+[![Simply Kanban](https://img.shields.io/badge/Website-Simply_Kanban-f59e0b?style=for-the-badge)](https://gragongit.github.io/Simply-Kanban/)
+[![Itch.io](https://img.shields.io/badge/Game-Too_Many_Timers-e75952?style=for-the-badge)](https://gragonator.itch.io/too-many-timers)
+[![Modrinth](https://img.shields.io/badge/Mod-Arcane_Artistry-4034eb?style=for-the-badge)](https://modrinth.com/mod/arcane-artistry)
 
 ### I am currently working on:
 - My Masters degree
